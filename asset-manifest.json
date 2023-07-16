@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/flygate-grad/static/css/main.94ec44ca.css",
-    "main.js": "/flygate-grad/static/js/main.b31248cc.js",
+    "main.js": "/flygate-grad/static/js/main.7a06e5c6.js",
     "static/js/787.89255808.chunk.js": "/flygate-grad/static/js/787.89255808.chunk.js",
     "static/media/Qatar.png": "/flygate-grad/static/media/Qatar.14cc2d027d9aebc7dae7.png",
     "static/media/TermsAndConditions.jpg": "/flygate-grad/static/media/TermsAndConditions.35e82b5977de838e92a0.jpg",
@@ -13,11 +13,11 @@
     "static/media/airplane.png": "/flygate-grad/static/media/airplane.62fe98a00879463f9ae5.png",
     "index.html": "/flygate-grad/index.html",
     "main.94ec44ca.css.map": "/flygate-grad/static/css/main.94ec44ca.css.map",
-    "main.b31248cc.js.map": "/flygate-grad/static/js/main.b31248cc.js.map",
+    "main.7a06e5c6.js.map": "/flygate-grad/static/js/main.7a06e5c6.js.map",
     "787.89255808.chunk.js.map": "/flygate-grad/static/js/787.89255808.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94ec44ca.css",
-    "static/js/main.b31248cc.js"
+    "static/js/main.7a06e5c6.js"
   ]
 }
