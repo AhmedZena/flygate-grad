@@ -1,0 +1,98 @@
+.container {
+  position: relative;
+  padding: 0.5rem;
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.backgroundImage {
+  width: 100%;
+  height: 60vh;
+  display: block;
+  object-fit: cover;
+  filter: brightness(0.8);
+}
+
+.title {
+  position: absolute;
+  top: 50vh;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  font-size: 3.5rem;
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px #000000;
+  margin: 0;
+}
+.heading2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  margin-top: 3rem;
+  padding-left: 1rem;
+}
+.heading3 {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+  margin-top: 3rem;
+  padding-left: 1rem;
+}
+
+.paragraph {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+  padding-left: 2rem;
+}
+.list {
+  list-style: disc;
+  margin-left: 3rem;
+}
+
+.listItem {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+  .title {
+    font-size: 2rem;
+    top: 50vh;
+    left: 50%;
+  }
+  .heading2 {
+    font-size: 1.5rem;
+  }
+  .heading3 {
+    font-size: 1.2rem;
+  }
+  .paragraph {
+    font-size: 1rem;
+    margin: 1rem 2rem;
+  }
+  .listItem {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .title {
+    font-size: 1.5rem;
+    top: 50vh;
+  }
+  .heading2 {
+    font-size: 1.3rem;
+  }
+  .heading3 {
+    font-size: 1.1rem;
+  }
+  .paragraph {
+    font-size: 0.9rem;
+  }
+  .listItem {
+    font-size: 0.9rem;
+  }
+}

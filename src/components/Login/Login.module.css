@@ -1,0 +1,305 @@
+.MainLogin {
+  background-image: url("https://3.bp.blogspot.com/-x9idw11wxts/VnD1ntNnymI/AAAAAAAAjzk/PszAyUEh5m8/s1600/awesome-hd-wallpapers-1080p-airplane.jpg");
+  background-size: cover !important;
+  /* background-position: center center; */
+  background-color: #005296;
+  padding-top: 50px;
+  /* height: 100vh; */
+  height: 1200px;
+  background-repeat: repeat;
+}
+
+.container {
+  width: 100%;
+  padding-top: 60px;
+  padding-bottom: 100px;
+}
+
+.loginRegisterWrapper {
+  /* height: 100vh; */
+  height: 750px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 2em;
+  border-radius: 15px;
+  box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  color: #ffffff;
+  background: linear-gradient(
+    180deg,
+    rgba(19, 38, 79, 1) 0%,
+    rgba(22, 147, 198, 1) 52%,
+    rgba(255, 255, 255, 0) 82%
+  );
+  /* margin-top: 10px; */
+}
+.registerform {
+  top: -500px;
+}
+/* Nav buttons */
+.navButtons {
+  width: 100%;
+  height: 100px;
+  padding-top: 40px;
+  opacity: 1;
+  margin-bottom: 3em;
+  text-align: center;
+  justify-content: center;
+}
+
+.username {
+  display: block !important;
+  width: 85% !important;
+}
+#registerBtn,
+#loginBtn {
+  background: #ffffff80;
+  color: #110000;
+  font-size: 1.2em;
+  padding: 8px 0px;
+  width: 40%;
+  height: 35px;
+  border: none;
+  border-radius: 20px;
+  margin-top: 23px;
+  cursor: pointer;
+  /* make font bold */
+  /* font-weight: 700; */
+  text-align: center;
+  justify-content: center;
+}
+
+#registerBtn:hover,
+#loginBtn:hover {
+  background: #ffffffcc;
+  font-weight: 750;
+}
+
+button {
+  font-size: 1.5em;
+  margin-right: 1em;
+  border: 0px;
+  cursor: pointer;
+}
+button:focus {
+  outline: 0px;
+}
+button :hover {
+  padding-bottom: 10px;
+}
+
+/* footer: forgot section */
+.forgotPanel {
+  position: relative;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-top: 24px;
+}
+
+/* form styling */
+.formGroup input {
+  width: 100%;
+  height: 35px;
+  padding-left: 15px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  background: #ffffff80;
+  color: #110000;
+  font-size: 1.2em;
+}
+
+.formGroup label {
+  text-transform: uppercase;
+}
+input.submit {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1em;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  padding: 8px 0px;
+  width: 100%;
+  height: 35px;
+  border: none;
+  border-radius: 20px;
+  margin-top: 23px;
+  background-color: rgba(16, 89, 255, 1);
+  cursor: pointer;
+}
+
+/*Form positioning and animation */
+
+form#registerform {
+  left: 500px;
+  top: -230px;
+  position: relative;
+}
+
+.forgotPanel {
+  margin-top: -300px;
+  color: rgb(255, 255, 255);
+}
+
+form,
+.forgotPanel {
+  position: relative;
+  transition: all 0.1s ease;
+}
+#loginBtn,
+#registerBtn {
+  transition: all 0.1s ease;
+}
+
+.socialLogin {
+  display: flex;
+  margin-top: 20px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+}
+.btnGoogle {
+  width: 200px !important;
+  height: 45px !important;
+  text-align: center !important;
+  justify-content: center !important;
+  border-radius: 20px !important;
+  transition: all 0.5s ease;
+}
+.btnGoogle:hover {
+  background-color: #ffffff !important;
+  color: #110000 !important;
+  font-weight: 700 !important;
+  width: 250px !important;
+  /* smooth transition */
+  transition: all 0.5s ease;
+}
+
+/* .btnFacebook {
+  width: 200px !important;
+  height: 45px !important;
+  text-align: center !important;
+  justify-content: center !important;
+  border-radius: 20px !important;
+  font-size: 1.2em !important;
+  background-color: #3b5998 !important;
+  transition: all 0.5s ease;
+}
+
+.btnFacebook:hover {
+  background-color: #008ad3 !important;
+  color: #110000 !important;
+
+  width: 250px !important;
+  
+  transition: all 0.5s ease;
+} */
+
+/* -------OR------- */
+.ORLINE {
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #000;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+}
+
+.ORLINE span {
+  background: #000000;
+  padding: 0 10px;
+}
+
+input:focus {
+  background-color: #e3e3e3;
+}
+/* ---------------------------------------- */
+/* ---------------------------------------- */
+/* make all thing responsive */
+/* ---------------------------------------- */
+/* ---------------------------------------- */
+/* ---------------------------------------- */
+/* ---------------------------------------- */
+/* ---------------------------------------- */
+/* ---------------------------------------- */
+/* ---------------------------------------- */
+/* ---------------------------------------- */
+/* ---------------------------------------- */
+/* ---------------------------------------- */
+
+@media screen and (max-width: 500px) {
+  .loginRegisterWrapper {
+    width: 80%;
+    height: 100vh;
+    padding: 0 2em;
+  }
+  .registerform {
+    top: -400px;
+  }
+  .loginform {
+    top: 40px;
+  }
+  .username {
+    display: block !important;
+    width: 80% !important;
+  }
+  .navButtons {
+    height: 100px;
+    padding-top: 40px;
+    opacity: 1;
+    margin-bottom: 3em;
+  }
+  .formGroup input {
+    width: 100%;
+    height: 35px;
+    padding-left: 15px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background: rgba(255, 255, 255, 0.5);
+  }
+  .formGroup label {
+    text-transform: uppercase;
+  }
+  input.submit {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1em;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    padding: 8px 0px;
+    width: 100%;
+    height: 35px;
+    border: none;
+    border-radius: 20px;
+    margin-top: 23px;
+    background-color: rgba(16, 89, 255, 1);
+  }
+  .forgotPanel {
+    /* margin-top: -300px; */
+    color: rgb(255, 255, 255);
+  }
+  form#registerform {
+    left: 500px;
+    top: -230px;
+    position: relative;
+  }
+  form,
+  .forgotPanel {
+    position: relative;
+    transition: all 0.1s ease;
+  }
+  #loginBtn,
+  #registerBtn {
+    transition: all 0.1s ease;
+  }
+  .socialLogin {
+    display: block;
+    text-align: center;
+    justify-content: space-between;
+  }
+}

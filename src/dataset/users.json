@@ -1,0 +1,84 @@
+{
+    "users": [
+        {
+            "first_name": "Ahmed",
+            "last_name": "Mohamed",
+            "country": "Egypt",
+            "phone_num": "+20 10 1234 5678",
+            "email": "ahmedm@example.com",
+            "password": "egypt123"
+        },
+        {
+            "first_name": "Layla",
+            "last_name": "Abdullah",
+            "country": "Saudi Arabia",
+            "phone_num": "+966 50 9876 5432",
+            "email": "laylaa@example.com",
+            "password": "ksa123"
+        },
+        {
+            "first_name": "Hassan",
+            "last_name": "Ali",
+            "country": "Egypt",
+            "phone_num": "+20 11 5678 1234",
+            "email": "hassana@example.com",
+            "password": "egypt456"
+        },
+        {
+            "first_name": "Fatima",
+            "last_name": "Al-Saud",
+            "country": "Saudi Arabia",
+            "phone_num": "+966 55 1234 5678",
+            "email": "fatimaa@example.com",
+            "password": "ksa456"
+        },
+        {
+            "first_name": "Mohamed",
+            "last_name": "Ibrahim",
+            "country": "Egypt",
+            "phone_num": "+20 12 9876 5432",
+            "email": "mohamedi@example.com",
+            "password": "egypt789"
+        },
+        {
+            "first_name": "Abdul",
+            "last_name": "Rahman",
+            "country": "Saudi Arabia",
+            "phone_num": "+966 59 5678 1234",
+            "email": "abdulr@example.com",
+            "password": "ksa789"
+        },
+        {
+            "first_name": "Aya",
+            "last_name": "Mahmoud",
+            "country": "Egypt",
+            "phone_num": "+20 10 1234 5678",
+            "email": "ayam@example.com",
+            "password": "egypt1011"
+        },
+        {
+            "first_name": "Nora",
+            "last_name": "Al-Abdul",
+            "country": "Saudi Arabia",
+            "phone_num": "+966 50 9876 5432",
+            "email": "noraa@example.com",
+            "password": "ksa1011"
+        },
+        {
+            "first_name": "Ali",
+            "last_name": "Gaber",
+            "country": "Egypt",
+            "phone_num": "+20 11 5678 1234",
+            "email": "alig@example.com",
+            "password": "egypt1213"
+        },
+        {
+            "first_name": "Yara",
+            "last_name": "Al-Qasem",
+            "country": "Saudi Arabia",
+            "phone_num": "+966 55 1234 5678",
+            "email": "yaras@example.com",
+            "password": "ksa1213"
+        }
+    ]
+}

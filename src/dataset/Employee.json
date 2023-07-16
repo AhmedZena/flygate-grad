@@ -1,0 +1,70 @@
+
+[
+  {
+    "SSN": "123-45-6789",
+    "Fname": "John",
+    "Mname": "Doe",
+    "Lname": "Smith",
+    "gender": "Male",
+    "salary": 70000,
+    "job_type": "Full-time",
+    "supervisor": "Jane Doe",
+    "Airport_name": "San Francisco International Airport"
+  },
+  {
+    "SSN": "987-65-4321",
+    "Fname": "Jane",
+    "Mname": "jon",
+    "Lname": "Doe",
+    "gender": "Female",
+    "salary": 80000,
+    "job_type": "Part-time",
+    "supervisor": "John Smith",
+    "Airport_name": "Los Angeles International Airport"
+  },
+    {
+  "SSN": "456-78-9012",
+  "Fname": "Jane",
+  "Mname": "Marie",
+  "Lname": "Johnson",
+  "gender": "Female",
+  "salary": 75000,
+  "job_type": "Full-time",
+  "supervisor": "John Doe",
+  "Airport_name": "San Francisco International Airport"
+  },
+    {
+    "SSN": "345-67-8901",
+    "Fname": "Emily",
+    "Mname": "",
+    "Lname": "Davis",
+    "gender": "Female",
+    "salary": "$65,000",
+    "job_type": "Full-time",
+    "supervisor": "John Doe",
+    "Airport_name": "San Francisco International Airport"
+  },
+  {
+    "SSN": "567-89-0123",
+    "Fname": "William",
+    "Mname": "",
+    "Lname": "Johnson",
+    "gender": "Male",
+    "salary": "$70,000",
+    "job_type": "Part-time",
+    "supervisor": "Jane Doe",
+    "Airport_name": "Chicago O'Hare International Airport"
+  },
+  {
+    "SSN": "678-90-1234",
+    "Fname": "Isabella",
+    "Mname": "",
+    "Lname": "Johnson",
+    "gender": "Female",
+    "salary": "$75,000",
+    "job_type": "Full-time",
+    "supervisor": "John Doe",
+    "Airport_name": "Atlanta Hartsfield-Jackson International Airport"
+  }
+]
+

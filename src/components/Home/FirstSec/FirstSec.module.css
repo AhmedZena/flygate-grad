@@ -1,0 +1,41 @@
+.firstSection {
+  /* want to make background color this img https://ychef.files.bbci.co.uk/1600x900/p018hpg1.webp */
+  background-image: url("https://images.unsplash.com/photo-1569154941061-e231b4725ef1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+  background-size: fill;
+  /* background-size: fill; */
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 100px;
+}
+
+@media (max-width: 600px) {
+  .firstSection h1 {
+    font-size: 3rem;
+  }
+  .firstSection h2 {
+    font-size: 2rem;
+  }
+}
+@media (max-width: 500px) {
+  .firstSection h1 {
+    font-size: 2.5rem;
+  }
+  .firstSection h2 {
+    font-size: 1.8rem;
+  }
+}
+@media (max-width: 400px) {
+  .firstSection h1 {
+    font-size: 2rem;
+  }
+  .firstSection h2 {
+    font-size: 1.5rem;
+  }
+}

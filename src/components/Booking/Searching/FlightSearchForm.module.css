@@ -1,0 +1,22 @@
+.searchFlights {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 90%;
+  /* max-width: 400px !important; */
+  padding: 20px;
+  border: 2px solid #000000;
+  border-radius: 5px;
+  margin-top: 20px;
+  background-color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.searchBtn {
+  margin-top: 20px;
+}
+
+.errorDiv {
+  color: red;
+  font-size: 16px;
+}

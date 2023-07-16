@@ -1,0 +1,148 @@
+{
+    "seats": [
+        {
+            "status": true,
+            "number": "1A"
+        },
+        {
+            "status": false,
+            "number": "1B"
+        },
+        {
+            "status": true,
+            "number": "1C"
+        },
+        {
+            "status": false,
+            "number": "1D"
+        },
+        {
+            "status": true,
+            "number": "1E"
+        },
+        {
+            "status": false,
+            "number": "1F"
+        },
+        {
+            "status": true,
+            "number": "2A"
+        },
+        {
+            "status": false,
+            "number": "2B"
+        },
+        {
+            "status": true,
+            "number": "2C"
+        },
+        {
+            "status": false,
+            "number": "2D"
+        },
+        {
+            "status": true,
+            "number": "2E"
+        },
+        {
+            "status": false,
+            "number": "2F"
+        },
+        {
+            "status": true,
+            "number": "3A"
+        },
+        {
+            "status": false,
+            "number": "3B"
+        },
+        {
+            "status": true,
+            "number": "3C"
+        },
+        {
+            "status": false,
+            "number": "3D"
+        },
+        {
+            "status": true,
+            "number": "3E"
+        },
+        {
+            "status": false,
+            "number": "3F"
+        },
+        {
+            "status": true,
+            "number": "4A"
+        },
+        {
+            "status": false,
+            "number": "4B"
+        },
+        {
+            "status": true,
+            "number": "4C"
+        },
+        {
+            "status": false,
+            "number": "4D"
+        },
+        {
+            "status": true,
+            "number": "4E"
+        },
+        {
+            "status": false,
+            "number": "4F"
+        },
+        {
+            "status": true,
+            "number": "5A"
+        },
+        {
+            "status": false,
+            "number": "5B"
+        },
+        {
+            "status": true,
+            "number": "5C"
+        },
+        {
+            "status": false,
+            "number": "5D"
+        },
+        {
+            "status": true,
+            "number": "5E"
+        },
+        {
+            "status": false,
+            "number": "5F"
+        },
+        {
+            "status": true,
+            "number": "6A"
+        },
+        {
+            "status": false,
+            "number": "6B"
+        },
+        {
+            "status": true,
+            "number": "6C"
+        },
+        {
+            "status": false,
+            "number": "6D"
+        },
+        {
+            "status": true,
+            "number": "6E"
+        },
+        {
+            "status": false,
+            "number": "6F"
+        }
+    ]
+}

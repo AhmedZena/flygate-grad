@@ -1,0 +1,155 @@
+[
+     { 
+        "name": "cairo international airport",
+        "city": "cairo",
+        "country": "egypt",
+        "state": "Available"
+    },
+    {
+        "name": "Alexandria International Airport",
+        "city": "Alexandria",
+        "country": "Egypt",
+        "state": "Available"
+    },
+    {
+        "name": "Abu Dhabi Northeast Airport",
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "state": "Available"
+    },
+    {
+        "name": "Abu Dhabi West Airport",
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "state": "Available"
+        },
+    {
+        "name": "Al Ain International Airport",
+        "city": "Al Ain",
+        "country": "United Arab Emirates",
+        "state": "Available"
+    },
+    {
+        "name": "Dubai International Airport",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "state":    "Not Available"
+    },
+    {
+        "name": "Fujairah International Airport",
+        "city": "Fujairah",
+        "country": "United Arab Emirates",
+        "state": "Available"
+    },
+    {
+        "name": "Ras Al Khaimah International Airport",
+        "city": "Ras Al Khaimah",
+        "country": "United Arab Emirates",
+        "state": "Not Available"
+    },
+    {
+        "name": "Sharjah International Airport",
+        "city": "Sharjah",
+        "country": "United Arab Emirates",
+        "state": "Available"
+    },
+    {
+        "name": "Bahrain International Airport",
+        "city": "Bahrain",
+        "country": "Bahrain",
+        "state": "Not Available"
+    },
+    {
+        "name": "King Fahd International Airport",
+        "city": "Dammam",
+        "country": "Saudi Arabia",
+        "state": "Available"
+    },
+    {
+        "name": "King Abdulaziz International Airport",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "state": "Not Available"
+    },
+    {
+        "name": "King Khaled International Airport",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "state": "Available"
+    },
+    {
+        "name": "Prince Mohammad Bin Abdulaziz International Airport",
+        "city": "Medina",
+        "country": "Saudi Arabia",
+        "state": "Available"
+    },
+    {
+        "name": "Prince Sultan Air Base",
+        "city": "Abha",
+        "country": "Saudi Arabia",
+        "state": "Available"
+    },
+    {
+        "name": "Taif Regional Airport",
+        "city": "Taif",
+        "country": "Saudi Arabia",
+        "state": "Available"
+    },
+    {
+        "name": "Qassim Regional Airport",
+        "city": "Buraydah",
+        "country": "Saudi Arabia",
+        "state": "Available"
+    },
+   
+        {
+        "name": "Aswan International Airport",
+        "city": "Aswan",
+        "country": "Egypt",
+        "state": "Available"
+    },
+   
+    {
+        "name": "Hurghada International Airport",
+        "city": "Hurghada",
+        "country": "Egypt",
+        "state": "Available"
+    },
+    {
+        "name": "Luxor International Airport",
+        "city": "Luxor",
+        "country": "Egypt",
+        "state": "Available"
+    },
+    {
+        "name": "Marsa Alam International Airport",
+        "city": "Marsa Alam",
+        "country": "Egypt",
+        "state": "Available"
+    },
+    {
+        "name": "Mersa Matruh Airport",
+        "city": "Mersa Matruh",
+        "country": "Egypt",
+        "state": "Available"
+    },
+    {
+        "name": "Sharm El Sheikh International Airport",
+        "city": "Sharm El Sheikh",
+        "country": "Egypt",
+        "state": "Available"
+    },
+    {
+        "name": "Sohag International Airport",
+        "city": "Sohag",
+        "country": "Egypt",
+        "state": "Available"
+    },
+    {
+        "name": "Taba International Airport",
+        "city": "Taba",
+        "country": "Egypt",
+        "state": "Available"
+    }
+  
+]

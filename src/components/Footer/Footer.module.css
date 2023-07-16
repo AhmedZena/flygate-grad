@@ -1,0 +1,143 @@
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+  /* margin-right: -15px; */
+  /* margin-left: -15px; */
+  margin-bottom: 0;
+  background-color: #3f51b5;
+  padding: 30px;
+  margin-top: 30px;
+}
+.footer h4 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.footer ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer ul li {
+  display: block;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.footer ul li:last-child {
+  margin-bottom: 0;
+}
+
+.footer ul li a {
+  color: #fffdfd;
+  text-decoration: none;
+  position: relative;
+}
+
+.footer ul li a::before {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: #000;
+  transition: width 0.3s ease-in-out;
+}
+
+.footer ul li a:hover::before {
+  width: 100%;
+}
+
+.socialLinks {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.socialLinks:last-child {
+  margin-right: 0;
+}
+
+.socialLinks a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 24px;
+  margin-right: 10px;
+  position: relative;
+}
+
+.socialLinks a:last-child {
+  margin-right: 0;
+}
+
+.socialLinks a::before {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: #eaeaea;
+  transition: width 0.3s ease-in-out;
+}
+
+.socialLinks a:hover::before {
+  width: 100%;
+}
+
+.about-section {
+  background-color: #2f354a;
+  color: #fffdfd;
+  padding: 30px;
+}
+
+.about-section h2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.about-section p {
+  margin-bottom: 20px;
+}
+.col_md_4 {
+  flex: 0 0 33.333333%;
+  max-width: 33.333333%;
+  padding-right: 15px;
+  padding-left: 15px;
+  color: #fff;
+}
+
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+.linkItem {
+  background-color: #2f354a;
+  color: #fffdfd;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 30px;
+  text-align: center;
+  /* delet line under  */
+  text-decoration: none;
+}
+.linkItem:hover {
+  /* increase font and size  */
+  font-size: 1.1rem;
+  /* change color  */
+  color: #f1c40f;
+  margin: 30px;
+  /* change background color  */
+  background-color: #2f354a;
+}
+
+@media (max-width: 500px) {
+  .col_md_4 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}

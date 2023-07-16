@@ -1,0 +1,139 @@
+.Profile {
+  background-color: #fff;
+  margin: 20px;
+  padding: 20px;
+}
+.tabContent {
+  padding: 16px;
+}
+
+.arrowButton {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+  background-color: #3f51b5;
+  color: #fff;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.arrowButton:hover {
+  background-color: #303f9f;
+}
+
+.arrowButton:disabled {
+  background-color: #e0e0e0;
+  color: #9e9e9e;
+  cursor: not-allowed;
+}
+
+.leftArrowButton {
+  left: 0;
+  margin-left: 8px;
+}
+
+.rightArrowButton {
+  right: 0;
+  margin-right: 8px;
+}
+
+.userInfo {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.userEmail {
+  margin-left: 16px;
+  font-weight: bold;
+}
+
+.userIcon {
+  width: 150px;
+  height: 150px;
+  margin-right: 16px;
+  border-radius: 50%;
+  background-color: #bdbdbd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+  border: 3px solid #000000;
+}
+
+.userIcon > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.editIcon {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  /* background-color: #bbbbbb; */
+  color: blue;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70px;
+  height: 70px;
+  cursor: pointer;
+}
+
+.editIcon > svg {
+  font-size: 1rem;
+}
+
+.homeAirport {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.homeAirportLabel {
+  font-weight: bold;
+  margin-right: 16px;
+}
+
+.editIconSmall {
+  width: 16px;
+  height: 16px;
+  margin-left: 8px;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .Profile {
+    margin: 0;
+    padding: 0;
+  }
+  .userInfo {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .userEmail {
+    margin-left: 0;
+    margin-top: 8px;
+  }
+  .userIcon {
+    margin: 0 auto;
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+  .homeAirport {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .homeAirportLabel {
+    margin-right: 0;
+    margin-bottom: 8px;
+  }
+}
