@@ -81,9 +81,9 @@ const Navbar = () => {
                 Profile
               </Button>
             )}
-            <Button color="inherit" component={Link} to="/admin-dashboard">
+            {/* <Button color="inherit" component={Link} to="/admin-dashboard">
               Admin
-            </Button>
+            </Button> */}
             <IconButton onClick={handleClick}>
               <Language />
             </IconButton>
